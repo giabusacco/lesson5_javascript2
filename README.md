@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 2, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Gia Busacco)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, I created a currency excahnge calculator application that allows the user to convert USD to currency of any of the countries listed in the drop down menu.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to properly use an if/else statement in order to make decisions.)
+2. (I learned how to decalre additional variables and then initialize them in order to have multiple options for the currency exchange calculator. )
+3. (I learned how to utilize the getElementById code.)
 
